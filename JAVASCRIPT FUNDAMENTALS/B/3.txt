@@ -1,0 +1,5 @@
+Unary operators: which require one operand (Un) example: a+=10
+
+Binary operators: which require two operands (Bi) example: 5+10
+
+Ternary operators: which require three operands (Ter): example: conditional statements

@@ -1,0 +1,7 @@
+There is a need to declare a variable in javascript because: 
+Variables are used to store data of different types, such as numbers, strings, objects, and arrays. This data can be used throughout the program and manipulated as needed.
+Variables provide a meaningful name to the data being stored, making it easier to understand and use the code.
+By grouping related variables together, code becomes more readable and maintainable.
+Declaring variables can improve the performance of JavaScript programs by allowing the compiler to optimize code execution.
+
+Declaration: let name="Nitin Khare"

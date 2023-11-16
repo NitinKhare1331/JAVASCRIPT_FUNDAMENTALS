@@ -1,0 +1,3 @@
+JavaScript (JS) is a high-level, interpreted programming language. It is one of the three core technologies of the World Wide Web, along with HTML and CSS. JavaScript is used to make web pages interactive and dynamic, and to provide functionality for a wide range of web applications.
+
+Developers use JavaScript to build complex interactive websites and browser games, and to connect servers to websites and web applications. Because of this versatility, it's easy to see why this language is the most commonly used programming language in the world.

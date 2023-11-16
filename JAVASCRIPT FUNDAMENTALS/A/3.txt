@@ -1,0 +1,7 @@
+5 primitive datatypes in javascript are: number,string,boolean,null,undefined
+
+number: 22,45,2,14,6,etc 
+string: 'nitin'
+boolean: TRUE/FALSE
+null: null
+undefined: not defined
